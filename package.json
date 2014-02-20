@@ -1,15 +1,8 @@
 {
-  "name": "to-camel-case",
-  "repo": "Nami-Doc/to-camel-case",
+  "name": "nami-doc-to-camel-case",
+  "description": "Converts a string to camelCase",
   "version": "0.2.0",
-  "keywords": ["camel-case", "camelCase", "string", "case"],
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*"
-  },
-  "component": {
-    "scripts": {
-      "max": "index.js"
-    }
-  }
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT"
 }
